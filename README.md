@@ -26,8 +26,5 @@
 *   Развитие навыков работы с **базами данных**
 *   Освоение Docker и основ DevOps
 
-##  Контакты
-*   **Почта:** [your.email@example.com]
-*   **Telegram:** [@yourusername]
-*
+
 
