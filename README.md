@@ -1,14 +1,14 @@
 
-<h1 align="center">Hi 👋, I'm  GamerRukky!</h1>
+<h1 align="center">Hi, I'm  YourMother3838!</h1>
 <br>
 
 <p>
 
 
 
-<h3> 👨🏻‍💻 &nbsp;Me </h3>
+<h3>  &nbsp;Me </h3>
 
-- 🎓 &nbsp; Choosing my IGCSE subjects 
+Full-Stack Developer
 
 <h3>🛠 Tech Stack</h3>
 
@@ -28,8 +28,8 @@
 
 <p>
    <h3> 🤝🏻 Connect with me </h3>
-  <a href="mailto:hi@ferdiozer.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://instagram.com/ferdi.ozer"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <br>
@@ -52,24 +52,11 @@
 <br/>
 📣
 <br/>
-**ferdiozer/ferdiozer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
------
-Credits: [ferdiozer](https://github.com/ferdiozer)
 
-Last Edited on: 18/08/2021
+
+
 
 
