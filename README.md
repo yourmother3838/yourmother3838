@@ -20,3 +20,29 @@
   <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Навык 4">
 
 </p>
+<h3 align="center">Статистика GitHub</h3>
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
+  <img src="https://vercel.app" alt="Top Languages" height="150" />
+</p>
+
+<h3 align="center">Контакты</h3>
+<p align="center">
+  <a href="https://t.me" target="_blank">
+    <img src="https://shields.io" alt="Telegram" />
+  </a>
+  <a href="mailto:your_email@example.com" target="_blank">
+    <img src="https://shields.io" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+</p>
+
+###  Немного о себе
+
+-  Сейчас я работаю над: **[Название твоего проекта]**
+-  Интенсивно изучаю: **TypeScript, Node.js и паттерны проектирования**
+-  Можешь задавать мне вопросы по: **JavaScript, Python и C#**
+
+
