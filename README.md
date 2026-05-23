@@ -22,8 +22,9 @@
 </p>
 <h3 align="center">Статистика GitHub</h3>
 <p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
-  <img src="https://vercel.app" alt="Top Languages" height="150" />
+[![GitHub Stats](https://vercel.app)](https://github.com/yourmother3838)
+
+[![Top Langs](https://vercel.app)](https://github.com/yourmother3838)
 </p>
 
 <h3 align="center">Контакты</h3>
