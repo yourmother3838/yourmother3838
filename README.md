@@ -21,12 +21,16 @@
 
 </p>
 <h3 align="center">Статистика GitHub</h3>
+### Статистика GitHub
+
 <p align="center">
-[![GitHub Stats](https://vercel.app)](https://github.com/yourmother3838)
-
-[![Top Langs](https://vercel.app)](https://github.com/yourmother3838)
-
+  <img src="https://vercel.app" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://vercel.app" alt="Top Langs" />
+</p>
+
 
 <h3 align="center">Контакты</h3>
 <p align="center">
