@@ -21,7 +21,8 @@
 
 </p>
 <h3 align="center">Статистика GitHub</h3>
-![GitHub Stats](https://github-readme-stats-yourname.vercel.app/api?username=yourmother3838&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-amina.vercel.app/api?username=yourmother3838&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-amina.vercel.app/api/top-langs/?username=yourmother3838&layout=compact)
 
 <h3 align="center">Контакты</h3>
 <p align="center">
