@@ -1,8 +1,13 @@
-<h1 align="center">Hi, I'm YourMother3838!</h1>
+<h1 align="center">Hi, I'm YourMother3838! 👋</h1>
+<p align="center">
+  <em>Веб-разработчик, влюблённый в чистый код и красивые интерфейсы</em>
+</p>
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Основная анимация">
 </p>
+
+<h3 align="center">🛠️ Стек технологий</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="Навык 1">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Навык 2">
@@ -15,13 +20,15 @@
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="Node">
   <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Git">
 </p>
-<h3 align="center">Статистика GitHub</h3>
+
+<h3 align="center">📊 Статистика GitHub</h3>
 <p align="center">
   <img src="https://github-readme-stats-amina.vercel.app/api?username=yourmother3838&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats-amina.vercel.app/api/top-langs/?username=yourmother3838&layout=compact&theme=dark" alt="Top Langs" />
 </p>
-<h3 align="center">Контакты</h3>
+
+<h3 align="center">📬 Контакты</h3>
 <p align="center">
   <a href="https://t.me" target="_blank">
     <img src="https://shields.io" alt="Telegram" />
@@ -34,7 +41,11 @@
   </a>
 </p>
 
-### Немного о себе
-- Сейчас я работаю над: ****
-- Интенсивно изучаю: **TypeScript, Node.js и паттерны проектирования**
-- Можешь задавать мне вопросы по: **JavaScript, Python и C#**
+---
+
+### 👤 Немного о себе
+
+- 🔭 Сейчас работаю над: **собственным проектом**
+- 📚 Активно изучаю: **TypeScript, Node.js и паттерны проектирования**
+- 💬 Могу помочь с: **JavaScript, Python и C#**
+- 🎯 Цель на этот год: **вырасти до Middle-разработчика**
