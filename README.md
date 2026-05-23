@@ -21,16 +21,9 @@
 
 </p>
 <h3 align="center">Статистика GitHub</h3>
-### Статистика GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourmother3838&show_icons=true&theme=dark)
 
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" alt="Top Langs" />
-</p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourmother3838&layout=compact)
 
 <h3 align="center">Контакты</h3>
 <p align="center">
