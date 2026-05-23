@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm YourMother3838! 👋</h1>
 <p align="center">
-  <em>Веб-разработчик, влюблённый в чистый код и красивые интерфейсы</em>
+  <em>Веб-разработчик! <em>
 </p>
 <br>
 <p align="center">
