@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm YourMother3838! 👋</h1>
 <p align="center">
-  <em>Веб-разработчик! <em>
+  <em>Веб-разработчик!</em>
 </p>
 <br>
 <p align="center">
@@ -9,16 +9,16 @@
 
 <h3 align="center">🛠️ Стек технологий</h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="Навык 1">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Навык 2">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Навык 3">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="Навык 4">
-  <img src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000" alt="C#">
-  <img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" alt="SQL">
-  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="HTML">
-  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="CSS">
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="Node">
-  <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Git">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" height="60" alt="JS">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" height="60" alt="Python">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" height="60" alt="TS">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" height="60" alt="VS Code">
+  <img src="https://img.icons8.com/?size=60&id=HcQEdKCkXUs3&format=png&color=000000" width="60" height="60" alt="C#">
+  <img src="https://img.icons8.com/?size=60&id=Fycm8TUhWmFU&format=png&color=000000" width="60" height="60" alt="SQL">
+  <img src="https://img.icons8.com/?size=60&id=J6KcaRLsTgpZ&format=png&color=000000" width="60" height="60" alt="HTML">
+  <img src="https://img.icons8.com/?size=60&id=20909&format=png&color=000000" width="60" height="60" alt="CSS">
+  <img src="https://img.icons8.com/?size=60&id=21278&format=png&color=000000" width="60" height="60" alt="Node">
+  <img src="https://img.icons8.com/?size=60&id=54087&format=png&color=000000" width="60" height="60" alt="Git">
 </p>
 
 <h3 align="center">📊 Статистика GitHub</h3>
@@ -31,16 +31,17 @@
 <h3 align="center">📬 Контакты</h3>
 <p align="center">
   <a href="https://t.me/amhdrw" target="_blank">
-    <img src="[https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram](https://img.icons8.com/?size=100&id=EWzVSK2hyV9H&format=png&color=000000)" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+  &nbsp;
   <a href="mailto:hddam16@gmail.com" target="_blank">
-    <img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail](https://img.icons8.com/?size=100&id=tnnUFgHrPmR0&format=png&color=000000)" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
 ---
 
 ### 👤 Немного о себе
-
 - 🔭 Сейчас работаю над: **собственным проектом**
 - 📚 Активно изучаю: **TypeScript, Node.js и паттерны проектирования**
 - 💬 Могу помочь с: **JavaScript, Python и C#**
