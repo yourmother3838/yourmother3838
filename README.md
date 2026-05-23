@@ -30,17 +30,13 @@
 
 <h3 align="center">📬 Контакты</h3>
 <p align="center">
-  <a href="https://t.me" target="_blank">
-    <img src="https://shields.io" alt="Telegram" />
+  <a href="https://t.me/amhdrw" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:your_email@example.com" target="_blank">
-    <img src="https://shields.io" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+  <a href="mailto:hddam16@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
 ---
 
 ### 👤 Немного о себе
