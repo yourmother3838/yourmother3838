@@ -31,10 +31,10 @@
 <h3 align="center">📬 Контакты</h3>
 <p align="center">
   <a href="https://t.me/amhdrw" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="[https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram](https://img.icons8.com/?size=100&id=EWzVSK2hyV9H&format=png&color=000000)" />
   </a>
   <a href="mailto:hddam16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail](https://img.icons8.com/?size=100&id=tnnUFgHrPmR0&format=png&color=000000)" />
   </a>
 </p>
 ---
