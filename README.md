@@ -21,12 +21,6 @@
   <img src="https://img.icons8.com/?size=60&id=54087&format=png&color=000000" width="60" height="60" alt="Git">
 </p>
 
-<h3 align="center">📊 Статистика GitHub</h3>
-<p align="center">
-  <img src="https://github-readme-stats-amina.vercel.app/api?username=yourmother3838&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats-amina.vercel.app/api/top-langs/?username=yourmother3838&layout=compact&theme=dark" alt="Top Langs" />
-</p>
 
 <h3 align="center">📬 Контакты</h3>
 <p align="center">
